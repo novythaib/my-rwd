@@ -1,0 +1,43 @@
+/**
+ *=========================================================
+ * styles.css - Global Styles for the MyRWD website
+ *=========================================================
+ *
+ * Created November 12, 2014
+ *
+ * Authored by Novy Thaib 
+ *
+ */
+ 
+ /* ----- Basic styling ----- */ 
+ 
+body{
+  background-color: lightblue;
+}
+
+body{
+  background-color: lightblue;
+}
+
+#page-wrapper{
+    background-color: white;
+    width: 768px;
+    margin: 0 auto;
+}
+
+#content{
+  background-color: #f7f2da;
+  padding: 0 1em 0 1em;
+  margin: 0 0 10px 0;
+}
+
+nav{
+  background-color: gray;
+  margin: 0;
+  padding: 0;
+}
+
+ul{
+  padding: 3px 10px 3px 10px;
+  list-style-type: none;
+}
