@@ -29,6 +29,7 @@ body{
   background-color: #f7f2da;
   padding: 0 1em 0 1em;
   margin: 0 0 10px 0;
+  clear: both;
 }
 
 nav{
@@ -42,8 +43,18 @@ ul{
   list-style-type: none;
 }
 
-/* ----- Nav Bar ----- */
+/* ----- Top-Right Floated Navbar ----- */
 
 nav ul li{
   display: inline-block;
+}
+
+header{
+  float: left;
+  width: 400px;
+}
+
+nav{
+  float: right;
+  width: 175px;
 }
